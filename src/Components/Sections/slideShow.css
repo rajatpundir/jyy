@@ -1,0 +1,30 @@
+
+
+.arrowRight {
+    right: 5%;
+}
+
+.arrowLeft {
+    left: 5%;
+}
+
+
+@keyframes slideOutLeft {
+    from { transform: translate(0, 0) }
+    to { transform: translate(-100%, 0) }
+}
+
+@keyframes slideInLeft {
+    from { transform: translate(100%, 0) }
+    to { transform: translate(0, 0) }
+}
+
+@keyframes slideOutRight {
+    from { transform: translate(0, 0) }
+    to { transform: translate(100%, 0) }
+}
+
+@keyframes slideInRight {
+    from { transform: translate(-100%, 0) }
+    to { transform: translate(0, 0) }
+}
