@@ -25,6 +25,7 @@ class Dashboard extends React.Component {
 							</NavigationListElement>
 							<NavigationListElement>
 								<NavigationListAnchor
+									href="mailto:yash.arya@jyyautomation.com"
 									background="url(http://www.ksunsmt.com/cn/images/Top_email.png) 24px center no-repeat"
 									paddingLeft="48px"
 								>
@@ -33,6 +34,7 @@ class Dashboard extends React.Component {
 							</NavigationListElement>
 							<NavigationListElement>
 								<NavigationListAnchor
+									href="mailto:sales@jyyautomation.com"
 									background="url(http://www.ksunsmt.com/cn/images/Top_email.png) 24px center no-repeat"
 									paddingLeft="56px"
 								>
