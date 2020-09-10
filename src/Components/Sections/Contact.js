@@ -68,7 +68,10 @@ class AboutUs extends React.Component {
 											alt="Linkedin"
 										/>{' '}
 									</ArticleLink>
-									<ArticleLink>
+									<ArticleLink
+									href="https://www.youtube.com/channel/UCKPfjTx4cevgK884icHCJzg?sub_confirmation=1"
+									target="_blank">
+										
 										<img
 											src="https://img.icons8.com/color/48/000000/youtube-play.png"
 											alt="Youtube"

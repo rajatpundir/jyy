@@ -39,7 +39,6 @@ class Header extends React.Component {
 						<HeaderTopListElement>
 							<HeaderTopListAnchor
 								href="mailto:yash.arya@jyyautomation.com"
-								target="_blank"
 								background="url(http://www.ksunsmt.com/cn/images/Top_email.png) 24px center no-repeat"
 								paddingLeft="48px"
 							>
@@ -49,7 +48,6 @@ class Header extends React.Component {
 						<HeaderTopListElement>
 							<HeaderTopListAnchor
 								href="mailto:sales@jyyautomation.com"
-								target="_blank"
 								background="url(http://www.ksunsmt.com/cn/images/Top_email.png) 24px center no-repeat"
 								paddingLeft="56px"
 							>
